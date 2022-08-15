@@ -10,19 +10,19 @@ This analysis uses different technologies such as GoogleColab to provide a remot
 
 For this anlysis we considered Vine reviews as the paid members and Non vine reviews and unpaid members
 
-How many Vine reviews and non-Vine reviews were there?
+* How many Vine reviews and non-Vine reviews were there?
 
 Vine reviews: 136
 
 Non vine reviews:18,019
 
-How many Vine reviews  and non-Vine reviews were 5 stars? 
+* How many Vine reviews  and non-Vine reviews were 5 stars? 
 
 Vine reviews: 74
 
 Non vine reviews:8,482
 
-What percentage of Vine reviews  and non-Vine reviews were 5 stars? 
+* What percentage of Vine reviews  and non-Vine reviews were 5 stars? 
 
 Vine reviews
 ![](paid_five_star_percentage.png)
