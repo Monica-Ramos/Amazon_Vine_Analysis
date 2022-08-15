@@ -24,9 +24,9 @@ Non vine reviews:8,482
 
 * What percentage of Vine reviews  and non-Vine reviews were 5 stars? 
 
-Vine reviews
+ Vine reviews
 ![](paid_five_star_percentage.png)
-Non-Vine Reviews
+ Non-Vine Reviews
 ![](unpaid_five_star_percentage.png)
 
 
