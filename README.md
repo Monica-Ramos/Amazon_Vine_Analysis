@@ -26,8 +26,6 @@ Non vine reviews:8,482
 
 Vine reviews
 ![](paid_five_star_percentage.png)
-
-
 Non-Vine Reviews
 ![](unpaid_five_star_percentage.png)
 
