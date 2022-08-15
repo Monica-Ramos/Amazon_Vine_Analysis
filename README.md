@@ -28,8 +28,6 @@ Non vine reviews:8,482
 ![](paid_five_star_percentage.png)
  Non-Vine Reviews
 ![](unpaid_five_star_percentage.png)
-
-
 ## Summary 
 From the previous results we can conclude that there is in fact a positivity bias for reviews in the Vine program. The percentage of five stars for non vine members is around 47% while the percentage of five stars for Vine members is 54%. This shows a difference of 7% between non and vine members.
 
